@@ -1,4 +1,4 @@
-# Diabetes-Prediction
+# Diabetes Prediction
 A machine learning model that predicts how likely a patient has diabetes or not 
 # Introduction
 The prevalence of diabetes is increasing globally. Diabetes is a significant public health concern due to its associated health complications and economic burden on individuals, families, and healthcare systems. As a result, there is a growing need for data-driven approaches to diabetes prevention, early detection, and management.
