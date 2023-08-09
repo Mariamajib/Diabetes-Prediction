@@ -5,7 +5,7 @@ The prevalence of diabetes is increasing globally. Diabetes is a significant pub
 
 Diabetes is a chronic metabolic disorder characterized by high blood glucose levels resulting from defects in insulin secretion, insulin action, or both. Insulin is a hormone produced by the pancreas that regulates blood glucose levels by facilitating the uptake of glucose from the blood into cells for energy production or storage. In individuals with diabetes, the body either does not produce enough insulin or cannot effectively use the insulin produced, resulting in high blood glucose levels, which can lead to various complications, such as damage to the kidneys, nerves, eyes, and blood vessels.
 # Overview of the data
-The dataset used for this project was from Gihthub. This dataset is used to predict how likely a patient has diabetes or not based on the input parameters like Pregnancies, Glucose, Blood pressure, Insulin, Body mass index, etc. All patients used in this data are at least 21 years old.
+The dataset used for this project was from Github. This dataset is used to predict how likely a patient has diabetes or not based on the input parameters like Pregnancies, Glucose, Blood pressure, Insulin, Body mass index, etc. All patients used in this data are at least 21 years old.
 
 Features of the dataset:
 
