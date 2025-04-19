@@ -42,3 +42,9 @@ The dataset contains 2000 individuals data with 9 features set. The detailed des
 * Sensitivity (Recall)
 * Specificity
 * F-score
+
+# Proposed Improvements
+
+* Implement dataset balancing techniques to address class imbalance.
+* Perform hyperparameter tuning to optimize model performance.
+* Evaluate alternative machine learning models (e.g., Random Forest, Logistic Regression) to improve specificity and overall accuracy.
