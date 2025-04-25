@@ -41,14 +41,15 @@ The dataset contains 2000 individuals data with 9 features set. The detailed des
 # Model Development
 * Trained a Decision Tree Classifier with preprocessed data.
 * Visualized the tree structure to interpret decision paths.
+* Predicted diabetes outcomes by inputting all features into the trained model and evaluating the predictions.
+
+# Results & Evaluation
 * Evaluated model performance using key metrics:
    * Accuracy - 83.8 %
    * Precision - 91.3%
   * Sensitivity (Recall) - 90.9%
   * Specificity - 13.2%
   * F-score - 91.1%
-
-# Results & Evaluation
 * Constructed a confusion matrix to analyze model performance.
 * High precision and recall indicate effective detection of diabetic cases.
 * Low specificity suggests need for further refinement to reduce false positives.
